@@ -1,7 +1,26 @@
-## Updates of 2022-03-01
+## Updates of 2022-04-21
 
-### We are looking for research interns (PhD/master students) to work on Computer Vision & Computer Graphics research projects at Tencent AI Lab anytime through the year of 2022-2023. The position requires full-time working for at least 6 months in Shenzhen, China. Please don't hesitate to drop me an email. 
+腾讯AI Lab招聘3D虚拟人算法实习生
 
-### Full-time researcher positions at Tencent AI Lab are available now! We are looking for strong candidates with top publications in 3D Computer Vision & Computer Graphics. Please drop me an email if you are interested. 
+
+腾讯 AI Lab长期招聘3D虚拟人算法实习生，要求在深圳全职实习时间能有6个月以上(最好能长期实习)，有兴趣的同学请将简历发送至: linchaobao@tencent.com，实习生申请请在标题加注＂AI Lab实习生申请-{学校}-{可实习X个月}＂。
+
+关于腾讯 AI Lab 的介绍详见：http://ai.tencent.com
+团队工作成果详见：http://linchaobao.github.io/
+
+
+实习生岗位：图像图形算法实习生
+
+
+岗位职责（二选一）：
+1. 算法实习生：参与3D虚拟人相关项目的算法研发、产品落地。
+2. 研究实习生：在3D虚拟人相关方向从事研究并投稿高水平论文。
+
+
+任职要求：
+1. 计算机视觉或图形学相关方向的在读硕士或博士，能在深圳全职实习6个月以上。
+2. 熟悉常用计算机视觉/图形学算法，对深度学习框架和理论比较熟悉，有3D人脸相关算法背景者优先考虑。
+3. 熟练掌握以下几种编程语言：C/C++, Matlab, Python。
+4. 有计算机视觉或图形学相关的顶级会议如SIGGRAPH、SIGGRAPH Asia、CVPR、ICCV等高水平论文发表者优先。
 
 
