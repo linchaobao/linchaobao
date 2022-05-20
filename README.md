@@ -1,4 +1,4 @@
-## Updates of 2022-04-21
+## Updates of 2022-05-20
 
 腾讯AI Lab招聘3D虚拟人算法实习生
 
