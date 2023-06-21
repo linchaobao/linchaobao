@@ -1,4 +1,4 @@
-## Updates of 2023-06, by 暴林超 (http://linchaobao.github.io/)
+## Updates of 2023-06, 暴林超 (http://linchaobao.github.io/)
 
 2023年Unity中国引擎研发团队招聘AI算法实习生
 
